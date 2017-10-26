@@ -10,11 +10,13 @@ Getting started is simple, all your need is a basic understanding of Java and th
 
 ### Prerequisites
 Here's what you neeed to get started.
-#### Software
+#### Software/APIs
 
-Hibernate [Download link](http://hibernate.org/orm/releases/)
+Hibernate 5.2 [Download link](http://hibernate.org/orm/releases/) - connection to database
 
-I used build 5.2
+Java Swing - GUI
+
+MySQL - database
 
 ## General info
 
